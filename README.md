@@ -4,7 +4,7 @@
     - .\<ten>\Scripts\activate
 ## Pipeline chuẩn train efficientnet-b3 (300 × 300 × 3)
 
-Load ảnh
+## Load ảnh
         - Resize + Normalizes
         - Augment train
         - Batch loader
@@ -18,7 +18,7 @@ Load ảnh
 
 
 ## Handle dataset 
-Ảnh gốc
+    - Ảnh gốc
         - kiểm tra RGB
         - chia folder theo class
         - chia train / val / test
