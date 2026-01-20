@@ -8,8 +8,8 @@ import numpy as np
 
 
 # IMG_SIZE = 300
-BATCH_SIZE = 8
-NUM_WORKERS = 3
+BATCH_SIZE = 4
+NUM_WORKERS = 2
 
 DATA_DIR = "D:/Train_CNN/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)"
 
