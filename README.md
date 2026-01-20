@@ -1,8 +1,8 @@
-## Create mtr ảo
+# Create mtr ảo
     - python -m venv <ten>  
     - Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
     - .\<ten>\Scripts\activate
-## Pipeline chuẩn train efficientnet-b3 (300 × 300 × 3)
+# Pipeline chuẩn train efficientnet-b3 (300 × 300 × 3)
 
 ## Load ảnh
         - Resize + Normalizes
